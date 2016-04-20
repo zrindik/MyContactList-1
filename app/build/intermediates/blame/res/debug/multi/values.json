@@ -1,0 +1,270 @@
+[
+    {
+        "outputFile": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 50,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 51,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 54,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 45,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 45,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 44,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 44,
+                        "endOffset": 463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 46,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 468,
+                        "endColumn": 46,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 48,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 52,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 51,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 57,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 55,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 52,
+                    "endOffset": 722
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 727,
+                    "endColumn": 50,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endColumn": 52,
+                    "endOffset": 826
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 831,
+                    "endColumn": 68,
+                    "endOffset": 895
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 900,
+                    "endColumn": 67,
+                    "endOffset": 963
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 968,
+                    "endColumn": 68,
+                    "endOffset": 1032
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1037,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1323
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1328,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1483
+                },
+                "from": {
+                    "file": "C:\\Users\\jalaj\\AndroidStudioProjects\\MyContactList1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
